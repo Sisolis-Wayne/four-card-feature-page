@@ -95,4 +95,8 @@ header .page--main-head-3 {
     .card-section {
         grid-template-columns: 1fr;
     }
+
+    header .page--main-head-2, header .page--main-head {
+        font-size: 1.5rem;
+}
 }
